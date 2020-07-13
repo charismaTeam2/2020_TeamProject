@@ -8,7 +8,6 @@ import {
 import Tabs from '../navigation/Tabs';
 
 // 회원가입
-// 중요도 낮음. 개발 필요. 유저 등록 기능과 디자인 수정작업 필요.
 
 export default class Member extends Component{
    static navigationOptions = ({navigation}) => ({

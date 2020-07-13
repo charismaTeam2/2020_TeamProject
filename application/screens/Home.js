@@ -18,8 +18,7 @@ export default class Home extends  Component{
   }
    static Mycloset = () => { this.props.navigation.navigate("Mycloset") }
   
-   // 로그인은 그냥 로그인 버튼만 누르면 바로 다음 화면으로 넘어가게 할 것.
-   // 앱 세션까지 구성하는 것은 되지만, 최소한 핵심 기능이 다 완료된 상태에서 할 것. 
+
    UserLoginFunction = () =>{
    
     const { Username }  = this.state ;

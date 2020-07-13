@@ -2,7 +2,6 @@ import  React, { Component }  from 'react';
 import {StyleSheet,View, Text, Button, TextInput, TouchableOpacity, Image } from 'react-native';
 
 // 로그인
-// 중요도 낮음. 개발 필요. 
 
 export default class Home extends  Component{
   static navigationOptions = ({navigation}) => ({

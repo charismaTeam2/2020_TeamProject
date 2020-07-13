@@ -1,0 +1,13 @@
+beige
+black
+brown
+gray
+green
+navy
+orange
+pink
+puple
+red
+skyblue
+white
+yellow

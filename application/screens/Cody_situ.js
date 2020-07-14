@@ -2,7 +2,7 @@ import React from "react";
 import {StyleSheet, View, Text, ScrollView, Button, TouchableOpacity, Image} from "react-native";
 
 // 옷추천페이지
-// 중요도 보통. 개발 필요. 디자인과 기능 구성 필요.
+
 /*
 <View style={{ marginRight: 55}}>
 
